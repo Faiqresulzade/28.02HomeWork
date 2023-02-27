@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\bin\Debug\net6.0\2nin_quvveti.exe
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\bin\Debug\net6.0\2nin_quvveti.deps.json
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\bin\Debug\net6.0\2nin_quvveti.runtimeconfig.json
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\bin\Debug\net6.0\2nin_quvveti.dll
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\bin\Debug\net6.0\2nin_quvveti.pdb
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.AssemblyInfo.cs
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.dll
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\refint\2nin_quvveti.dll
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.pdb
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\2nin_quvveti.genruntimeconfig.cache
+C:\Users\Honor\Desktop\28.02HomeWork\2nin_quvveti\2nin_quvveti\obj\Debug\net6.0\ref\2nin_quvveti.dll

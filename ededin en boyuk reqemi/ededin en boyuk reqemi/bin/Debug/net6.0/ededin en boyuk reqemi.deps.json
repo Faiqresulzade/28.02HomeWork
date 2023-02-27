@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ededin en boyuk reqemi/1.0.0": {
+        "runtime": {
+          "ededin en boyuk reqemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ededin en boyuk reqemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

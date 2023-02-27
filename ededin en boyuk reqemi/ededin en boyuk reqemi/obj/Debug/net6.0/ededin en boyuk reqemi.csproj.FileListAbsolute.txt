@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\bin\Debug\net6.0\ededin en boyuk reqemi.exe
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\bin\Debug\net6.0\ededin en boyuk reqemi.deps.json
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\bin\Debug\net6.0\ededin en boyuk reqemi.runtimeconfig.json
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\bin\Debug\net6.0\ededin en boyuk reqemi.dll
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\bin\Debug\net6.0\ededin en boyuk reqemi.pdb
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.AssemblyInfo.cs
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.dll
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\refint\ededin en boyuk reqemi.dll
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.pdb
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ededin en boyuk reqemi.genruntimeconfig.cache
+C:\Users\Honor\Desktop\28.02HomeWork\ededin en boyuk reqemi\ededin en boyuk reqemi\obj\Debug\net6.0\ref\ededin en boyuk reqemi.dll
